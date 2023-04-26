@@ -14,8 +14,8 @@ Projekts kura ietvaros apgusim UI elemetu veidosanu un darbosanos ar tiem. Tema:
 - [x] Drop down elemeta lietojums
 - [x] Slider elementu lietojums
 - [ ] Audio source integresana aina
-- [ ] Scroll view elementa lietojums
-- [ ] Drag and drop funkcionalitates ieviesana
-- [ ] Parslegsaas starp ainam
+- [x] Scroll view elementa lietojums
+- [x] Drag and drop funkcionalitates ieviesana
+- [x] Parslegsaas starp ainam
 - [ ] Objektu generesana
 - [ ] Projekta sagatavosana darbinasanai no darbvirsmas (.exe)
