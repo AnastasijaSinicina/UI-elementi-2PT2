@@ -4,7 +4,7 @@ Projekts kura ietvaros apgusim UI elemetu veidosanu un darbosanos ar tiem. Tema:
 ![image](https://user-images.githubusercontent.com/129928532/232992926-5b3fc4c5-a306-4ee7-be2a-43ccd20bc233.png)
 
 ## Veicamo darbu saraksts
-- [ ] Input field lietojumus
+- [x] Input field lietojumus
 - [x] Text elementa lietojums
 - [x] Button elementa lietojums
 - [x] Image elementa lietojums
@@ -12,7 +12,7 @@ Projekts kura ietvaros apgusim UI elemetu veidosanu un darbosanos ar tiem. Tema:
 - [x] Toggle elementu lietojums
 - [x] Togle Goup elementu komponentes lietojums
 - [x] Drop down elemeta lietojums
-- [ ] Slider elementu lietojums
+- [x] Slider elementu lietojums
 - [ ] Audio source integresana aina
 - [ ] Scroll view elementa lietojums
 - [ ] Drag and drop funkcionalitates ieviesana
