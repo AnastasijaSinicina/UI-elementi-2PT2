@@ -17,5 +17,5 @@ Projekts kura ietvaros apgusim UI elemetu veidosanu un darbosanos ar tiem. Tema:
 - [x] Scroll view elementa lietojums
 - [x] Drag and drop funkcionalitates ieviesana
 - [x] Parslegsaas starp ainam
-- [ ] Objektu generesana
-- [ ] Projekta sagatavosana darbinasanai no darbvirsmas (.exe)
+- [x] Objektu generesana
+- [x] Projekta sagatavosana darbinasanai no darbvirsmas (.exe)
